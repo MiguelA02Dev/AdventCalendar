@@ -126,7 +126,7 @@ const DayCardComponent: React.FC<Props> = ({
                 }}
                 className="text-[22.6px] font-belleza"
               >
-                {timeLeft?.hours}:{timeLeft?.minutes}:{timeLeft?.seconds}
+              {timeLeft?.hours}:{timeLeft?.minutes > 10 ? timeLeft?.minutes : `0${timeLeft?.minutes}`}:{timeLeft?.seconds < 10 ? `0${timeLeft?.seconds}` : timeLeft?.seconds}
               </p>
             ) : null}
           </motion.div>
