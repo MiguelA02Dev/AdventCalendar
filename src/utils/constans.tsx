@@ -32,6 +32,7 @@ export const DAYS = [
     message:
       "No soy un experto en tu música favorita, pero quise sumergirme en tu mundo para crear algo especial. Esta playlist está hecha desde mi corazón, escogiendo canciones que, aunque no sean mi estilo, tienen un mensaje claro: te amo. Espero que disfrutes cada nota tanto como yo disfruto estar a tu lado. ❤️",
     secondColor: "#F4EAD1",
+url: "https://open.spotify.com/playlist/3RTFdpnj0LD5DHG4V5fY28?si=wqRJtCttRc2OwQ6DHV3Fxw&pi=u-QgU_ORgJTnuG"
   },
   {
     id: 4,
