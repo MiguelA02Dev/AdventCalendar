@@ -12,6 +12,7 @@ const WelcomeComponente = () => {
       <motion.div
         initial={{ opacity: 0, scale: 0 }}
         animate={{ opacity: 1, scale: 1, transition: { duration: 0.6 } }}
+        className="flex"
       >
         <div className="bg-[#FFFEFE] border-2 border-dashed border-[#A20A0A] w-full max-w-[440px] py-[40px] rounded-3xl mx-[10px] relative">
           <div className="flex flex-col gap-4 p-4">
