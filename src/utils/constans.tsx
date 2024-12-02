@@ -30,7 +30,7 @@ export const DAYS = [
     value: "03",
     gift: "Una playlist hecha por mí",
     message:
-      "Llena de canciones que me hacen pensar en ti. ¡Espero que te encanten tanto como a mí!",
+      "No soy un experto en tu música favorita, pero quise sumergirme en tu mundo para crear algo especial. Esta playlist está hecha desde mi corazón, escogiendo canciones que, aunque no sean mi estilo, tienen un mensaje claro: te amo. Espero que disfrutes cada nota tanto como yo disfruto estar a tu lado. ❤️",
     secondColor: "#F4EAD1",
   },
   {
