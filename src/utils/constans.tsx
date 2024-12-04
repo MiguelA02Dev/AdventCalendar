@@ -51,9 +51,9 @@ url: "https://open.spotify.com/playlist/3RTFdpnj0LD5DHG4V5fY28?si=wqRJtCttRc2OwQ
     color: "#BF4D40",
     font: "#F4EAD1",
     value: "05",
-    gift: "Un paseo por el parque",
+    gift: "Vale Todo Contigo",
     message:
-      "Vamos a caminar juntos, disfrutar del aire fresco y crear nuevos recuerdos.",
+      "Este vale es tuyo para usarlo como quieras: una cita soñada, una aventura loca o simplemente una tarde de abrazos viendo películas. Tú decides, yo feliz de compartirlo contigo. ❤️",
     secondColor: "#F4EAD1",
   },
   {
