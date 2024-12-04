@@ -14,7 +14,7 @@ const DaysContainerComponent = () => {
     seconds: 0,
   });
 
-  const targetDate = dayjs("2024-12-04").endOf('day'); // Ajustamos el targetDate a la medianoche del día actual.
+  const targetDate = dayjs().endOf('day'); // Ajustamos el targetDate a la medianoche del día actual.
 
   React.useEffect(() => {
     const updateTimer = () => {
