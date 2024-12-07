@@ -73,9 +73,9 @@ url: "https://open.spotify.com/playlist/3RTFdpnj0LD5DHG4V5fY28?si=wqRJtCttRc2OwQ
     color: "#BF4D40",
     font: "#F4EAD1",
     value: "07",
-    gift: "Una noche de películas y palomitas",
+    gift: "Sabores y primeros encuentros 🍷✨",
     message:
-      "Prepárate para nuestra maratón de películas favorita. ¡Solo faltan las cobijas y abrazos!",
+      "Hoy es un día especial, no solo porque vamos a cocinar juntos, sino porque es la primera vez que te unirás a mi mundo de verdad. Quiero que conozcas a mi familia, que descubras parte de lo que soy y que juntos creemos recuerdos que sepan a Navidad… y a nosotros. ❤️",
     secondColor: "#F4EAD1",
   },
   {
