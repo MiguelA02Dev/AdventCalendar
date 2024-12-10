@@ -106,9 +106,9 @@ url: "https://open.spotify.com/playlist/3RTFdpnj0LD5DHG4V5fY28?si=wqRJtCttRc2OwQ
     color: "#B7DBC6",
     font: "#122721",
     value: "10",
-    gift: "Unos guantes de invierno",
+    gift: "El abrazo que guarda todo mi amor",
     message:
-      "Para que tus manos siempre estén cálidas, aunque mis manos no estén cerca.",
+      "Hoy mi regalo para ti es algo que no puedes envolver, pero que encierra todo lo que siento por ti: un abrazo. Largo, cálido y lleno de amor, para que sientas lo importante que eres para mí. Cada segundo de ese abrazo llevará un pedacito de mi corazón, porque contigo quiero abrazar la vida entera.",
     secondColor: "#BF4D40",
   },
   {
