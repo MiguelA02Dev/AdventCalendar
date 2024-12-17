@@ -193,7 +193,7 @@ url: "https://open.spotify.com/playlist/3RTFdpnj0LD5DHG4V5fY28?si=wqRJtCttRc2OwQ
     color: "#B7DBC6",
     font: "#122721",
     value: "18",
-    gift: "ChocoBeso para Bárbara",
+    gift: "ChocoBeso",
     message:
       "Amor este chocolate viene con una condición: por cada mordida, me debes un beso. Si no, ¡me das esa vaina! Gracias por ser la parte más dulce de mis días. Te amo",
     secondColor: "#BF4D40",
