@@ -193,9 +193,9 @@ url: "https://open.spotify.com/playlist/3RTFdpnj0LD5DHG4V5fY28?si=wqRJtCttRc2OwQ
     color: "#B7DBC6",
     font: "#122721",
     value: "18",
-    gift: "Una tarde de juegos de mesa",
+    gift: "ChocoBeso para Bárbara",
     message:
-      "Saca tu lado competitivo, porque hoy vamos a divertirnos con un buen juego.",
+      "Amor este chocolate viene con una condición: por cada mordida, me debes un beso. Si no, ¡me das esa vaina! Gracias por ser la parte más dulce de mis días. Te amo",
     secondColor: "#BF4D40",
   },
   {
