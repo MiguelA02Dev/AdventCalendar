@@ -204,9 +204,9 @@ url: "https://open.spotify.com/playlist/3RTFdpnj0LD5DHG4V5fY28?si=wqRJtCttRc2OwQ
     color: "#BF4D40",
     font: "#F4EAD1",
     value: "19",
-    gift: "Un set de velas aromáticas",
+    gift: "Mi Refugio Bárbara 🌹❤️",
     message:
-      "Unas velas que iluminarán cualquier espacio, pero nunca tanto como tú iluminas mi vida.",
+      "En este rinconcito de mi Instagram quiero guardar cada estrella que ilumina mi vida contigo. Bárbara, eres mi sol, mi luna y todas mis constelaciones. Cada foto, cada video, cada recuerdo aquí es un reflejo de cuánto te amo y lo afortunado que soy de compartir este viaje contigo. Gracias por ser mi persona favorita en el mundo. Esto es para ti, mi universo, porque contigo siempre es mejor. Te amo infinito. ❤️",
     secondColor: "#F4EAD1",
   },
   {
