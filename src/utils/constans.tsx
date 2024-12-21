@@ -219,7 +219,7 @@ url: "https://open.spotify.com/playlist/3RTFdpnj0LD5DHG4V5fY28?si=wqRJtCttRc2OwQ
     message:
       "Vamos a ensuciarnos las manos, pero terminaremos con algo delicioso (¡y con muchas risas!).",
     secondColor: "#B7DBC6",
-url: "https://open.spotify.com/playlist/6cjVJUOlu14YoY56ydOxfu?si=48554ae230ca48fb"
+
   },
   {
     id: 21,
@@ -230,6 +230,7 @@ url: "https://open.spotify.com/playlist/6cjVJUOlu14YoY56ydOxfu?si=48554ae230ca48
     gift: "Te Amo en Cada Nota",
     message: "Una playlist hecha con canciones que forman parte de mi mundo, una manera de decirte cuánto te amo desde mi corazón y mis gustos musicales. No importa si las escuchas o no, lo que importa es que, con cada canción, quiero que sepas que eres la melodía más hermosa de mi vida. ❤️🎶",
     secondColor: "#F4EAD1",
+url: "https://open.spotify.com/playlist/6cjVJUOlu14YoY56ydOxfu?si=48554ae230ca48fb"
   },
   {
     id: 22,
