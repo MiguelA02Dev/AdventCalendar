@@ -226,8 +226,8 @@ url: "https://open.spotify.com/playlist/3RTFdpnj0LD5DHG4V5fY28?si=wqRJtCttRc2OwQ
     color: "#BF4D40",
     font: "#F4EAD1",
     value: "21",
-    gift: "Un cojín personalizado",
-    message: "Para que siempre tengas algo cómodo que te recuerde a mí.",
+    gift: "Te Amo en Cada Nota",
+    message: "Una playlist hecha con canciones que forman parte de mi mundo, una manera de decirte cuánto te amo desde mi corazón y mis gustos musicales. No importa si las escuchas o no, lo que importa es que, con cada canción, quiero que sepas que eres la melodía más hermosa de mi vida. ❤️🎶",
     secondColor: "#F4EAD1",
   },
   {
