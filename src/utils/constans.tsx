@@ -219,6 +219,7 @@ url: "https://open.spotify.com/playlist/3RTFdpnj0LD5DHG4V5fY28?si=wqRJtCttRc2OwQ
     message:
       "Vamos a ensuciarnos las manos, pero terminaremos con algo delicioso (¡y con muchas risas!).",
     secondColor: "#B7DBC6",
+url: "https://open.spotify.com/playlist/6cjVJUOlu14YoY56ydOxfu?si=48554ae230ca48fb"
   },
   {
     id: 21,
