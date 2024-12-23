@@ -259,9 +259,10 @@ url: "https://open.spotify.com/playlist/6cjVJUOlu14YoY56ydOxfu?si=48554ae230ca48
     color: "#F4EAD1",
     font: "#122721",
     value: "24",
-    gift: "Una cena especial hecha por mí",
+    gift: "Gracias...",
     message:
-      "Vamos a disfrutar de una cena deliciosa, preparada con todo mi amor.",
+      "",
     secondColor: "#B7DBC6",
+    url: "https://drive.google.com/file/d/1GA9SZNLOrKCzHRzdmI3Z9tFjj7_FAwWX/view?usp=sharing"
   },
 ];
