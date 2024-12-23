@@ -250,8 +250,7 @@ url: "https://open.spotify.com/playlist/6cjVJUOlu14YoY56ydOxfu?si=48554ae230ca48
     font: "#F4EAD1",
     value: "23",
     gift: "El Abrazo Más Apretado",
-    message:
-      "Hoy no hay grandes cosas materiales, pero sí algo que vale mucho más: un abrazo lleno de amor y calidez. Porque aunque estoy "pelando bola", mi cariño por ti siempre está en abundancia.",
+    message: "Hoy no hay grandes cosas materiales, pero sí algo que vale mucho más: un abrazo lleno de amor y calidez. Porque aunque estoy pelando bola, mi cariño por ti siempre está en abundancia.",
     secondColor: "#F4EAD1",
   },
   {
